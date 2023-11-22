@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @bartpekelaer
-- 👀 I’m interested in Music, Gaming and nature
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on Learning Code
-- 📫 How to reach me - right here for now!
+# Hi there, I’m @bartpekelaer👋
 
-<!---
-bartpekelaer/bartpekelaer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## About Me
+- 🔭 I’m currently working on an RPG Game in python.
+- 🌱 I’m currently learning coding standards
+- 👯 I’m looking to collaborate on any project.
+- 🤔 I’m looking for help with blockchain interactions
+- ⚡ Fun fact: I'm an Project Planner in the Event industry, pretty far stretch from coding.
