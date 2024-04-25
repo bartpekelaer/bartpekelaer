@@ -5,8 +5,8 @@ I've been learning code for 2 years, after working in the event industry as an A
 
 *   🌍  I'm based in Amsterdam
 *   ✉️  You can contact me at [bart.pekelaer@outlook.com](mailto:bart.pekelaer@outlook.com)
-*   🚀  I'm currently working on [Crown of Honor](http://github.com/bartpekelaer/crown-of-honor)
-*   🧠  I'm learning Pygame and Coding Standards
+*   🚀  I'm currently working on Survey Data Analysis.
+*   🧠  I'm learning what suits me best. 
 *   🤝  I'm open to collaborating on any project
 
 ### Skills 
