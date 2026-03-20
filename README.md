@@ -1,11 +1,11 @@
 Hi 👋 My name is Bart Pekelaer
 ==============================
 
-I've been learning code for 2 years, after working in the event industry as an Audio-visual tech, and currently Project Planner
+CAD drafter turned Scripter turned Engineer
 
 *   🌍  I'm based in Amsterdam
 *   ✉️  You can contact me at [bart.pekelaer@outlook.com](mailto:bart.pekelaer@outlook.com)
-*   🚀  I'm currently working on Survey Data Analysis.
+*   🚀  I'm currently working on Spatial Load Assignments & Regulation Verification Logic.
 *   🧠  I'm learning what suits me best. 
 *   🤝  I'm open to collaborating on any project
 
