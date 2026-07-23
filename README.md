@@ -5,7 +5,7 @@ CAD drafter turned Scripter turned Engineer
 
 *   🌍  I'm based in Amsterdam
 *   ✉️  You can contact me at [bart.pekelaer@outlook.com](mailto:bart.pekelaer@outlook.com)
-*   🚀  I'm currently working on Spatial Load Assignments & Regulation Verification Logic.
+*   🚀  I'm currently working on a local first assistant L.I.S.A.
 *   🧠  I'm learning what suits me best. 
 *   🤝  I'm open to collaborating on any project
 
